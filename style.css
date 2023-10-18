@@ -1,0 +1,110 @@
+body{
+    background-color:#f2ebe3;
+    
+}
+div.asset{
+    width: 50%;
+    transform: translateX(60%);
+    display:block;
+    margin:10px;
+    border-radius: 6px;
+    
+    
+    
+    
+    
+    
+}
+
+div.asset img{
+    width: 30%;
+    height: 40%;
+    float:left;
+    border-radius: 6px 0 0 6px ;
+    
+    
+}
+
+div.desc{
+    margin: 225px;
+    padding: 12px;
+    background-color: #fff;
+    width: 30%;
+    height: 10%;
+    border-radius: 0 6px 6px 0 ;
+   
+}
+div.harga{
+    display: flex;
+    
+
+}
+
+div.harga h4{
+    color: #328067;
+    transform: translateX(8px);
+    font-size: 15px;
+
+}
+
+    
+
+    
+    
+
+div.desc p{
+    font-size: 14px;
+    color: #6c7289;
+    font-family: 'Montserrat', sans-serif;
+    transform: translateX(8px);
+    
+    
+    
+}
+
+
+
+.lineT{
+    text-decoration: line-through;
+    margin-left: 30px;
+    color: #6c7289;
+}
+.divgab {
+    max-width: 120px;
+    
+}
+div.desc h4{
+    color: #328067;
+    transform: translateX(8px);
+}
+div.desc h3{
+    color: #1c232b;
+    font-family: 'Fraunces', serif;
+    transform: translateX(8px);
+    
+}
+.icon{
+    width: 8px;
+    height: 7px;
+
+}
+
+
+.button{
+    background-color: #3c8067;
+    color: #fff;
+    padding: 5px;
+    margin: auto;
+    transform: translateX(62px);
+    border-radius: 6px;
+    
+  
+
+
+}
+
+    /*Responsive  1440px */
+@media only screen and (max-width: 1440px) {}
+
+/* Responsive 375px */
+@media only screen and (max-width: 375px) {}
